@@ -18,6 +18,8 @@ WHITE_A = (255, 255, 255, 255)
 
 #BLACK IS 1
 #WHITE IS 0
+
+# currently rule 30
 BIT_PATTERN = {
     "111": WHITE_A,
     "110": BLACK_A,
